@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{cc9af464-e815-4ecb-8f58-5cea8b2138f5}</ProjectGuid>
-    <RootNamespace>isTriangle</RootNamespace>
+    <ProjectGuid>{6d1c89f5-6e38-4cc2-8a8d-9d78b8cde88f}</ProjectGuid>
+    <RootNamespace>calculateRectangleProperties08</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>isTriangle_01</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="isTriangle_01.cpp" />
+    <ClCompile Include="calculateRectangleProperties_08.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

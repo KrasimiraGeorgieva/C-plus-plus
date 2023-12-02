@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="isTriangle_01.cpp">
+    <ClCompile Include="toUpper.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
