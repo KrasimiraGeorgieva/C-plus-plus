@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="isTriangle_01.cpp">
+    <ClCompile Include="calculateRectangleProperties_08.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

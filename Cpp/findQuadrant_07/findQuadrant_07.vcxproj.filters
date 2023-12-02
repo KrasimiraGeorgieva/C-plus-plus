@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="isTriangle_01.cpp">
+    <ClCompile Include="findQuadrant_07.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
